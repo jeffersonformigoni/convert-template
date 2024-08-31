@@ -86,7 +86,6 @@ select {
   background: url("./img/chevron-down.svg") no-repeat;
   background-position: calc(100% - 0.75rem) center !important;
   background-color: #0e0f25;
-
   cursor: pointer;
   font-size: 1rem;
 }
@@ -104,20 +103,15 @@ select:focus {
 
 button {
   height: 3.25rem;
-
   background-color: #2f34ab;
-
   border: none;
   border-radius: 0.5rem;
-
   color: #f1f2f6;
-
   font-family: "Inter", sans-serif;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
   transition: background-color 0.2s;
-
   margin-top: 3rem;
   outline: 0;
 }
@@ -134,10 +128,8 @@ footer {
   background-color: #1f2151;
   padding: 2.5rem;
   max-height: 196px;
-
   text-align: center;
   display: none;
-
   overflow-y: scroll;
 }
 
